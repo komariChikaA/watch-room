@@ -1,0 +1,9 @@
+.playwright-cli/
+node_modules/
+dist/
+web/dist/
+output/
+certs/
+data/
+*.log
+.DS_Store
